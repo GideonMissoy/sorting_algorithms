@@ -3,6 +3,7 @@
 
 /**
  * bubble_sort - Sorts an array of ints in ascending order.
+ *
  * @*array: the array to sort.
  * @size: size of the array.
  * Return: void.
